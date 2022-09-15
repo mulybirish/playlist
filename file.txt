@@ -1,8 +1,16 @@
 1.hey Joe
 2.all along the watchtower
 3.voodoo child
+<<<<<<< HEAD
 
 Message of love 
 Lover man
 Room full of mirrors
 Red house
+=======
+4 
+5
+6
+7
+8
+>>>>>>> 2fd8522420f52eb09153af5754bca63adf2ac473
