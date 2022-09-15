@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1.hey Joe
 2.all along the watchtower
 3.voodoo child
@@ -14,3 +15,8 @@ Red house
 7 machine gun
 8 
 >>>>>>> 2fd8522420f52eb09153af5754bca63adf2ac473
+=======
+Somkestck lightning
+manish boy
+Dust my broom 
+>>>>>>> blues
